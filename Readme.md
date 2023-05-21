@@ -1,6 +1,9 @@
+ <p align="center">
+ Hi Iam Ahmed Hassan Gamal
 <body>
   <p align="center">
-  <img  src="https://github.com/Slama305/slama305/blob/main/2342ede6-c0ad-445c-80d5-f059c96d628e.gif" align="center" alt="GitHub Readme Stats" />
+	  
+<!--   <img  src="https://github.com/" align="center" alt="GitHub Readme Stats" /> -->
 
 	  
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
@@ -9,9 +12,9 @@
 
 <br><br>	  
 - I am a Studient at [*`Faculty of Computers & Informatics`*](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [*`Suez Canal University`*](http://suez.edu.eg/ar/). 
-- 👨‍💻I am a competitive programmer at [*`codeforces`*](https://codeforces.com/profile/Slamaa)
+- 👨‍💻I am a competitive programmer at *`codeforces`*
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- 📫 How to reach me **`salmaabo341@gmail.com`**
+- 📫 How to reach me **`assanamed84@gmail.com`**
 <br><br><br><br>
 	  
  #
@@ -22,12 +25,12 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<br><br>
-	<a href="mailto:salmaabo341@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/slama305"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201020445156"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/mohamed-a-slama-012811258"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/mo.a.s.m.305"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://instagram.com/mo_3.0.5"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:assanamed84@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/AhmedHassanGamal"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/020122169729"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/ahmed-hassan-b652a2254"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100083232471080"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://instagram.com/ahmedhassan.gamal"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 	
@@ -50,7 +53,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=slama305&theme=tokyonight_duo" alt="slama305" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHassanGamal&theme=tokyonight_duo" alt="AhmedHassanGamal" /></p>
 
 </details>
   
@@ -60,8 +63,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="slama305's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slama305&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slama305&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="slama305" height="230px"/>
+	    <img alt="AhmedHassanGamal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedHassanGamal&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHassanGamal&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AhmedHassanGamal" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -72,7 +75,7 @@
 
 ----
 	
-[![slama305's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=slama305&theme=github	)](https://github.com/slama305/github-readme-activity-graph)
+[![AhmedHassanGamal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedHassanGamal&theme=github	)](https://github.com/AhmedHassanGamal/github-readme-activity-graph)
 
  
 </details>
@@ -81,7 +84,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slama305&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="slama305" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedHassanGamal&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AhmedHassanGamal" /></a> </p>
 
 	
 </details>
@@ -95,6 +98,6 @@
 	
 <hr>
 <p align="center">
-  <img  src="https://phoneky.co.uk/thumbs/screensavers/down/anime/naruto-vs-_VJYEPqKe.gif" align="center" alt="GitHub Readme Stats" />
+  <img  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="center" alt="GitHub Readme Stats" />
  
  
